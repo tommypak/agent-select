@@ -1,0 +1,15 @@
+{
+  "name": "agentselect",
+  "version": "1.0.0",
+  "description": "A Discord bot that picks Valorant agents for you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy Pak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "eslint": "^8.18.0"
+  }
+}
